@@ -1,0 +1,42 @@
+.hero{
+    height: 500px;
+    background-image: url(../images/IMG3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navigation{
+    display: flex;
+    gap: 100px;
+    background-color: limegreen;
+}
+.logo{
+    margin-top: 5px;
+}
+a{
+    color: white;
+}
+img{
+width: 300px;
+height: 200px;
+}
+.container1{
+    display: flex;
+    gap: 20px;
+}
+.container2{
+    display: flex;
+    gap: 20px;
+}
+.container3{
+    display: flex;
+    gap: 20px;
+}
+.container4{
+    display: flex;
+    margin: 40px;
+    background-color: rgb(17, 145, 145);
+    padding: 20px;
+}
+.bold{
+    font-size: x-large;
+}
